@@ -1,0 +1,33 @@
+{
+  "name": "chatty",
+  "version": "1.0.0",
+  "description": "A solo attempt at building a single-page chat app",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-bdani/Chatty-Project.git"
+  },
+  "author": "Brittany D. Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-bdani/Chatty-Project/issues"
+  },
+  "homepage": "https://github.com/code-bdani/Chatty-Project#readme",
+  "devDependencies": {
+    "browserify": "^15.2.0",
+    "grunt": "^1.0.1",
+    "grunt-browserify": "^5.2.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-postcss": "^0.9.0",
+    "jquery": "^3.3.1",
+    "jshint": "^2.9.5",
+    "jshint-stylish": "^2.2.1",
+    "matchdep": "^2.0.0",
+    "xhr": "^2.4.1"
+  }
+}
